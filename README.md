@@ -1,1 +1,1 @@
-# codecovdev
+| [![TravisCI](https://travis-ci.org/kelezj/codecovdev.svg?branch=master)](https://travis-ci.org/kelezj/codecovtest)  | [![codecov](https://codecov.io/gh/kelezj/codecovdev/branch/master/graph/badge.svg)](https://codecov.io/gh/kelezj/codecovdev)
