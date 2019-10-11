@@ -16,6 +16,7 @@ func GetResult() string {
 
     /*
     Comment
+    xxx
     */
 
     return result
